@@ -1,10 +1,10 @@
 import React from 'react'
-import CategoryMenu from '../../components/category-menu/category-menu.component'
+import CategoriesMenu from '../../components/categories-menu/categories-menu.component'
 
 const Home = () => {
   return (
     <div>
-      <CategoryMenu />
+      <CategoriesMenu />
     </div>
   )
 }
